@@ -1,0 +1,8 @@
+Original Text: Confidential forensic message.
+SHA-256 Hash: ce368c55495fe3d043988d7f88ed4c2e15c8613b80b033ea88956b38838face0
+Encrypted Text: ETcBrFxWfwfWjgxA1G15+D9/F/P2sVeV8MkLYEL/0GEFLa5V13cJpKPeMjETrCl6eO0W+MPMoEYor7Qg1B4=
+Decrypted Text: Confidential forensic message.
+Digital Signature: FCCTTpLPtoA45mM2tfiNmx498wVHmD4RMeHan9giJSxb9DsU6njP0KylWzIdw1OVo67LQe7NxUDnhNAMWuTSAXZH5xT9XBqnOiLfODBP15QLB/qBsc6RAsEECSTZ4aKf4YuWsA3BBt1BfPhS8zwluN6fHhTtelR78x4n/mqVNeScwuaN7O7PGJT7FwT5bJPOdk+7Yo34tOtLcV++WRKSa6GJjwCEkpjgkTvj7oOck3TSZ6+bdt+jfmYKwgry+s8B6Q+urqhtJdmrWgL7HYOQvq8naYeXusyGdcGWX/dg/QOXJjmsPG0i4TQGmh3fpxx/2LN7g5g6hMjAO62WS3gPrw==
+Signature Verified: True
+Encoded Text with ECC: bytearray(b'Confidential forensic message.\t\xf7\xe9\xc8|Py\x08\xd5)')
+Decoded Text with ECC: Confidential forensic message.
